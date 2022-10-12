@@ -1,5 +1,5 @@
 # terraform-azurerm-aks-agic
-A Terraform Module to deploy an AKS cluster with an App Gateway Ingress Controller on Azure.
+A Terraform module to deploy an AKS cluster with an App Gateway Ingress Controller on Azure.
 
 | Name | Version |
 |------|---------|
